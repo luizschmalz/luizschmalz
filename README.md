@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Luiz Eduardo Schmalz</h1>
 
----
-
 ### 👨‍💻 Sobre mim:
 
 - 💻 Cursando Ciência da computação na UFPE
