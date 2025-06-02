@@ -8,6 +8,7 @@
 
 ### 👨‍💻 Sobre mim:
 
+- 💻 Cursando Ciência da computação na UFPE
 - 🌱 Estudando atualmente: React e Nest!
 - 💬 Me pergunte sobre: Apesar de ter mais conhecimentos na área de desenvolvimento, também gosto muito de outras áreas como engenharia e ciência de dados!
 - ❤️ Buscando: Ser útil para a comunidade, participar de projetos, conhecer pessoas, oportunidades e networking.
