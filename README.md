@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Luiz Eduardo Schmalz</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="seu-usuario" />
+  <img src="https://komarev.com/ghpvc/?username=luizschmalz&label=Profile%20views&color=0e75b6&style=flat" alt="luizschmalz" />
 </p>
 
 ---
@@ -9,6 +9,7 @@
 ### 👨‍💻 Sobre mim:
 
 - 💻 Cursando Ciência da computação na UFPE
+- 🛠️ Tecnologias que tenho conhecimento: JavaScript, Python, React, Nest, HTML, CSS, JupyterNotebook
 - 🌱 Estudando atualmente: React e Nest!
 - 💬 Me pergunte sobre: Apesar de ter mais conhecimentos na área de desenvolvimento, também gosto muito de outras áreas como engenharia, ciência de dados e LLMs!
 - ❤️ Buscando: Ser útil para a comunidade, participar de projetos, conhecer pessoas, oportunidades e networking.
