@@ -10,7 +10,7 @@
 
 - 💻 Cursando Ciência da computação na UFPE
 - 🌱 Estudando atualmente: React e Nest!
-- 💬 Me pergunte sobre: Apesar de ter mais conhecimentos na área de desenvolvimento, também gosto muito de outras áreas como engenharia e ciência de dados!
+- 💬 Me pergunte sobre: Apesar de ter mais conhecimentos na área de desenvolvimento, também gosto muito de outras áreas como engenharia, ciência de dados e LLMs!
 - ❤️ Buscando: Ser útil para a comunidade, participar de projetos, conhecer pessoas, oportunidades e networking.
 - 📫 Contato: luizeduardo2014schmalz@gmail.com ou https://www.linkedin.com/in/luizeduardoschmalz/
 - ⚡ Curiosidade: Tenho duas tatuagens de Naruto!
@@ -19,13 +19,13 @@
 
 ### 🛠️ Tecnologias mais usadas:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/seu-usuario)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizschmalz&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/luizschmalz)
 
 ---
 
 ### 📊 Estatísticas do GitHub:
 
-![luizschmalz GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+![luizschmalz GitHub stats](https://github-readme-stats.vercel.app/api?username=luizschmalz&show_icons=true&theme=tokyonight)
 
 
 ### 🏆 Conquistas
