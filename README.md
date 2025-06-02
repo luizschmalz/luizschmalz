@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Seu Nome ou Apelido]</h1>
+<h1 align="center">Hi there 👋, I'm Luiz Eduardo Schmalz</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="seu-usuario" />
@@ -41,7 +41,9 @@
 
 - 💼 LinkedIn: [linkedin.com/in/luizschmalz](https://linkedin.com/in/luizschmalz)
 - 📷 Instagram: [@luizschmalz](https://instagram.com/luizschmalz)
+  Sinta-se a vontade pra falar comigo!!
 
 ---
+
 
 ⭐️ Não esqueça de deixar uma ⭐ nos repositórios que você curtir!
