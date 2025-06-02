@@ -10,7 +10,7 @@
 - 💬 Me pergunte sobre: Apesar de ter mais conhecimentos na área de desenvolvimento, também gosto muito de outras áreas como engenharia, ciência de dados e LLMs!
 - ❤️ Buscando: Ser útil para a comunidade, participar de projetos, conhecer pessoas, oportunidades e networking.
 - 📫 Contato: luizeduardo2014schmalz@gmail.com ou https://www.linkedin.com/in/luizeduardoschmalz/
-- ⚡ Curiosidade: Tenho duas tatuagens de Naruto!
+- ⚡ Curiosidade: Tenho quatro tatuagens e duas dela são de Naruto!
 
 ---
 
