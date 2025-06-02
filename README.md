@@ -1,9 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Luiz Eduardo Schmalz</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luizschmalz&label=Profile%20views&color=0e75b6&style=flat" alt="luizschmalz" />
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mim:
